@@ -2,7 +2,7 @@
 
 This repository hosts the **Agrosaima AgTech landing page**, published via **GitHub Pages**.
 
-🔗 **Live site**: https://TUUSUARIO.github.io/agrosaima-site/
+🔗 **Live site**: https://manudani.github.io/agrosaima-site/
 
 ---
 
